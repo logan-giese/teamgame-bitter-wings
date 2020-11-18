@@ -12,3 +12,10 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/HoudiniEngine/Tools/Default/he_surface_instancer.uasset
+Content/HoudiniEngine/Tools/Default/he_set_pivot.uasset
+Content/HoudiniEngine/Tools/Default/he_polyreduce.uasset
+Content/HoudiniEngine/Tools/Default/he_delete_small_parts.uasset
+Content/HoudiniEngine/Tools/Default/he_curve_instancer.uasset
+Content/HoudiniEngine/Tools/Default/he_calculate_occlusion.uasset
+Content/HoudiniEngine/Tools/Default/he_boolean.uasset
